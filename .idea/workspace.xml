@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52b35902-7214-4856-ae21-da30cbbb0cef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/phase1project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phase1project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lmAjGsG3APfLxmpZn6UE9bX9JS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15234375" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.simplilearn.phase1.assessment" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/java/test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/java" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.simplilearn.phase1.assessment.Main" />
+      <module name="phase1project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.simplilearn.phase1.assessment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52b35902-7214-4856-ae21-da30cbbb0cef" name="Default Changelist" comment="" />
+      <created>1608192026073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608192026073</updated>
+      <workItem from="1608192031521" duration="7214000" />
+      <workItem from="1608199352647" duration="104000" />
+      <workItem from="1608199473148" duration="677000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="25" key="#Project_Structure" timestamp="1608199390769">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state x="208" y="25" key="#Project_Structure/0.25.1440.807@0.25.1440.807" timestamp="1608199390769" />
+    <state x="533" y="115" key="#com.intellij.ide.util.MemberChooser" timestamp="1608194281424">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state x="533" y="115" key="#com.intellij.ide.util.MemberChooser/0.25.1440.805@0.25.1440.805" timestamp="1608194281424" />
+    <state x="338" y="120" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1608192489876">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state x="338" y="120" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.25.1440.805@0.25.1440.805" timestamp="1608192489876" />
+    <state x="373" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1608195638878">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state x="373" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.1440.805@0.25.1440.805" timestamp="1608195638878" />
+    <state width="1398" height="649" key="GridCell.Tab.0.bottom" timestamp="1608199550074">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state width="1398" height="421" key="GridCell.Tab.0.bottom/0.25.1440.805@0.25.1440.805" timestamp="1608196629756" />
+    <state width="1398" height="649" key="GridCell.Tab.0.bottom/0.25.1440.807@0.25.1440.807" timestamp="1608199550074" />
+    <state width="1398" height="649" key="GridCell.Tab.0.center" timestamp="1608199550073">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state width="1398" height="421" key="GridCell.Tab.0.center/0.25.1440.805@0.25.1440.805" timestamp="1608196629755" />
+    <state width="1398" height="649" key="GridCell.Tab.0.center/0.25.1440.807@0.25.1440.807" timestamp="1608199550073" />
+    <state width="1398" height="649" key="GridCell.Tab.0.left" timestamp="1608199550073">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state width="1398" height="421" key="GridCell.Tab.0.left/0.25.1440.805@0.25.1440.805" timestamp="1608196629755" />
+    <state width="1398" height="649" key="GridCell.Tab.0.left/0.25.1440.807@0.25.1440.807" timestamp="1608199550073" />
+    <state width="1398" height="649" key="GridCell.Tab.0.right" timestamp="1608199550073">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state width="1398" height="421" key="GridCell.Tab.0.right/0.25.1440.805@0.25.1440.805" timestamp="1608196629755" />
+    <state width="1398" height="649" key="GridCell.Tab.0.right/0.25.1440.807@0.25.1440.807" timestamp="1608199550073" />
+    <state x="229" y="25" key="SettingsEditor" timestamp="1608199433220">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state x="229" y="25" key="SettingsEditor/0.25.1440.805@0.25.1440.805" timestamp="1608192661063" />
+    <state x="229" y="25" key="SettingsEditor/0.25.1440.807@0.25.1440.807" timestamp="1608199433220" />
+  </component>
+</project>
