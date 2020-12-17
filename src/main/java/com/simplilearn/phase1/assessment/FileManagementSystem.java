@@ -92,7 +92,7 @@ public class FileManagementSystem {
             if (doc.getName().equalsIgnoreCase(fileName.trim())) {
                 found = true;
                 System.out.println("FOUND FILE :\n");
-                System.out.println("File -" + inventory.get(0).getId() + " - " + inventory.get(0).getName() + "\n");
+                System.out.println("File -" + doc.getId() + " - " + doc.getName() + "\n");
             }
         }
 
