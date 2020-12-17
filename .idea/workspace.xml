@@ -20,14 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52b35902-7214-4856-ae21-da30cbbb0cef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/phase1project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/simplilearn/phase1/assessment/DisplayScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simplilearn/phase1/assessment/DisplayScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simplilearn/phase1/assessment/FileManagementSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simplilearn/phase1/assessment/FileManagementSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simplilearn/phase1/assessment/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simplilearn/phase1/assessment/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +74,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.simplilearn.phase1.assessment.Main" />
       <module name="phase1project" />
       <extension name="coverage">
@@ -91,11 +87,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -111,7 +102,7 @@
       <workItem from="1608199352647" duration="104000" />
       <workItem from="1608199473148" duration="911000" />
       <workItem from="1608200473085" duration="565000" />
-      <workItem from="1608201846826" duration="230000" />
+      <workItem from="1608201846826" duration="1536000" />
     </task>
     <servers />
   </component>
@@ -138,6 +129,10 @@
       <screen x="0" y="25" width="1440" height="807" />
     </state>
     <state x="208" y="25" key="#Project_Structure/0.25.1440.807@0.25.1440.807" timestamp="1608199390769" />
+    <state x="184" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608202262538">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state x="184" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.805@0.25.1440.805" timestamp="1608202262538" />
     <state x="533" y="115" key="#com.intellij.ide.util.MemberChooser" timestamp="1608194281424">
       <screen x="0" y="25" width="1440" height="805" />
     </state>
@@ -150,25 +145,25 @@
       <screen x="0" y="25" width="1440" height="805" />
     </state>
     <state x="373" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.1440.805@0.25.1440.805" timestamp="1608195638878" />
-    <state width="1398" height="649" key="GridCell.Tab.0.bottom" timestamp="1608202027909">
+    <state width="1398" height="379" key="GridCell.Tab.0.bottom" timestamp="1608203381052">
       <screen x="0" y="25" width="1440" height="805" />
     </state>
-    <state width="1398" height="649" key="GridCell.Tab.0.bottom/0.25.1440.805@0.25.1440.805" timestamp="1608202027909" />
+    <state width="1398" height="379" key="GridCell.Tab.0.bottom/0.25.1440.805@0.25.1440.805" timestamp="1608203381052" />
     <state width="1398" height="649" key="GridCell.Tab.0.bottom/0.25.1440.807@0.25.1440.807" timestamp="1608199550074" />
-    <state width="1398" height="649" key="GridCell.Tab.0.center" timestamp="1608202027908">
+    <state width="1398" height="379" key="GridCell.Tab.0.center" timestamp="1608203381051">
       <screen x="0" y="25" width="1440" height="805" />
     </state>
-    <state width="1398" height="649" key="GridCell.Tab.0.center/0.25.1440.805@0.25.1440.805" timestamp="1608202027908" />
+    <state width="1398" height="379" key="GridCell.Tab.0.center/0.25.1440.805@0.25.1440.805" timestamp="1608203381051" />
     <state width="1398" height="649" key="GridCell.Tab.0.center/0.25.1440.807@0.25.1440.807" timestamp="1608199550073" />
-    <state width="1398" height="649" key="GridCell.Tab.0.left" timestamp="1608202027908">
+    <state width="1398" height="379" key="GridCell.Tab.0.left" timestamp="1608203381050">
       <screen x="0" y="25" width="1440" height="805" />
     </state>
-    <state width="1398" height="649" key="GridCell.Tab.0.left/0.25.1440.805@0.25.1440.805" timestamp="1608202027908" />
+    <state width="1398" height="379" key="GridCell.Tab.0.left/0.25.1440.805@0.25.1440.805" timestamp="1608203381050" />
     <state width="1398" height="649" key="GridCell.Tab.0.left/0.25.1440.807@0.25.1440.807" timestamp="1608199550073" />
-    <state width="1398" height="649" key="GridCell.Tab.0.right" timestamp="1608202027909">
+    <state width="1398" height="379" key="GridCell.Tab.0.right" timestamp="1608203381051">
       <screen x="0" y="25" width="1440" height="805" />
     </state>
-    <state width="1398" height="649" key="GridCell.Tab.0.right/0.25.1440.805@0.25.1440.805" timestamp="1608202027909" />
+    <state width="1398" height="379" key="GridCell.Tab.0.right/0.25.1440.805@0.25.1440.805" timestamp="1608203381051" />
     <state width="1398" height="649" key="GridCell.Tab.0.right/0.25.1440.807@0.25.1440.807" timestamp="1608199550073" />
     <state x="229" y="25" key="SettingsEditor" timestamp="1608199433220">
       <screen x="0" y="25" width="1440" height="807" />

@@ -36,6 +36,7 @@ public class Main {
                 switch (inputOption) {
                     case 1: {
                         fileManagementSystem.displayAllFiles();
+                        press();
                         break;
                     }
                     case 2: {
@@ -50,4 +51,12 @@ public class Main {
             }
         }
     }
+
+    private static void press(){
+        Scanner scanner= new Scanner(System.in);
+        System.out.println("\n PRESS ANY KEY TO CONTINUE........\n");
+        String line = scanner.nextLine();
+    }
+
+
 }

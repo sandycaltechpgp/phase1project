@@ -51,22 +51,26 @@ public class FileManagementSystem {
                         System.out.println("ENTER FILE TO ADD ");
                         createDocument(scanner.nextLine().trim());
                         System.out.println("ADDED FILE SUCCESSFULLY ");
+                        press();
                         break;
                     }
                     case 2: {
                         displayAllFiles();
                         System.out.println("ENTER A FILE NUMBER TO DELETE:");
                         deleteDocument(scanner.nextLine().trim());
+                        press();
                         break;
                     }
 
                     case 3: {
                         searchDocument(scanner.nextLine().trim());
+                        press();
                         break;
                     }
 
                     // Break from inside options
                     case 4: {
+                        press();
                         return;
                     }
 
@@ -84,12 +88,11 @@ public class FileManagementSystem {
                 System.out.println("FOUND FILE :\n");
                 System.out.println("File -" + inventory.get(0).getId() + " - " + inventory.get(0).getName() + "\n");
             }
-
-            if (!found) {
-                System.out.println("FILE NOT FOUND TRY AGAIN. :\n");
-            }
         }
 
+        if (!found) {
+            System.out.println("FILE NOT FOUND TRY AGAIN. :\n");
+        }
     }
 
     private void deleteDocument(String fileStr) {
@@ -116,5 +119,11 @@ public class FileManagementSystem {
     private void createDocument(String name) {
         Document document = new Document(name);
         inventory.add(document);
+    }
+
+    private static void press() {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("\n PRESS ANY KEY TO CONTINUE........\n");
+        String line = scanner.nextLine();
     }
 }
