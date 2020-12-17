@@ -23,7 +23,7 @@ public class FileManagementSystem {
         }
 
         for (int i = 0; i < inventory.size(); i++) {
-            System.out.println("File - " + (i + 1) + "- " + inventory.get(0).getId() + " - " + inventory.get(0).getName() + "\n");
+            System.out.println("File - " + (i + 1) + "- " + inventory.get(i).getId() + " - " + inventory.get(i).getName() + "\n");
         }
 
     }
@@ -73,6 +73,12 @@ public class FileManagementSystem {
                         press();
                         return;
                     }
+                    default: {
+                        System.out.println(" WRONG INPUT PLEASE TRY AGAIN \n" +
+                                "VALID OPTIONS ARE 1,2,3 or 4 \n");
+                        press();
+                        break;
+                    }
 
                 }
             }
@@ -106,11 +112,10 @@ public class FileManagementSystem {
         Byte inputOption = -1;
         try {
             inputOption = Byte.parseByte(input);
-            if (inputOption > 0){
+            if (inputOption > 0) {
                 inventory.remove(inputOption - 1);
                 System.out.println(" FILE DELETED SUCCESSFULLY !! \n");
-            }
-            else
+            } else
                 System.out.println(" WRONG INPUT PLEASE TRY AGAIN \n");
 
         } catch (Exception ex) {

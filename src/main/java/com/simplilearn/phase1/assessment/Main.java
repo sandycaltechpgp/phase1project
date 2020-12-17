@@ -30,6 +30,7 @@ public class Main {
                 } catch (Exception ex) {
                     System.out.println(" WRONG INPUT PLEASE TRY AGAIN \n" +
                             "VALID OPTIONS ARE 1,2  or 3 \n");
+                    fileManagementSystem.press();
                     continue;
                 }
 
@@ -45,6 +46,12 @@ public class Main {
                     }
                     case 3: {
                         return;
+                    }
+                    default: {
+                        System.out.println(" WRONG INPUT PLEASE TRY AGAIN \n" +
+                                "VALID OPTIONS ARE 1,2  or 3 \n");
+                        fileManagementSystem.press();
+                        break;
                     }
                 }
 
