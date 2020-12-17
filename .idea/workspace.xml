@@ -25,10 +25,9 @@
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/phase1project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phase1project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/simplilearn/phase1/assessment/DisplayScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/simplilearn/phase1/assessment/DisplayScreen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15234375" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -110,7 +109,9 @@
       <updated>1608192026073</updated>
       <workItem from="1608192031521" duration="7214000" />
       <workItem from="1608199352647" duration="104000" />
-      <workItem from="1608199473148" duration="677000" />
+      <workItem from="1608199473148" duration="911000" />
+      <workItem from="1608200473085" duration="565000" />
+      <workItem from="1608201846826" duration="230000" />
     </task>
     <servers />
   </component>
@@ -149,25 +150,25 @@
       <screen x="0" y="25" width="1440" height="805" />
     </state>
     <state x="373" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.1440.805@0.25.1440.805" timestamp="1608195638878" />
-    <state width="1398" height="649" key="GridCell.Tab.0.bottom" timestamp="1608199550074">
-      <screen x="0" y="25" width="1440" height="807" />
+    <state width="1398" height="649" key="GridCell.Tab.0.bottom" timestamp="1608202027909">
+      <screen x="0" y="25" width="1440" height="805" />
     </state>
-    <state width="1398" height="421" key="GridCell.Tab.0.bottom/0.25.1440.805@0.25.1440.805" timestamp="1608196629756" />
+    <state width="1398" height="649" key="GridCell.Tab.0.bottom/0.25.1440.805@0.25.1440.805" timestamp="1608202027909" />
     <state width="1398" height="649" key="GridCell.Tab.0.bottom/0.25.1440.807@0.25.1440.807" timestamp="1608199550074" />
-    <state width="1398" height="649" key="GridCell.Tab.0.center" timestamp="1608199550073">
-      <screen x="0" y="25" width="1440" height="807" />
+    <state width="1398" height="649" key="GridCell.Tab.0.center" timestamp="1608202027908">
+      <screen x="0" y="25" width="1440" height="805" />
     </state>
-    <state width="1398" height="421" key="GridCell.Tab.0.center/0.25.1440.805@0.25.1440.805" timestamp="1608196629755" />
+    <state width="1398" height="649" key="GridCell.Tab.0.center/0.25.1440.805@0.25.1440.805" timestamp="1608202027908" />
     <state width="1398" height="649" key="GridCell.Tab.0.center/0.25.1440.807@0.25.1440.807" timestamp="1608199550073" />
-    <state width="1398" height="649" key="GridCell.Tab.0.left" timestamp="1608199550073">
-      <screen x="0" y="25" width="1440" height="807" />
+    <state width="1398" height="649" key="GridCell.Tab.0.left" timestamp="1608202027908">
+      <screen x="0" y="25" width="1440" height="805" />
     </state>
-    <state width="1398" height="421" key="GridCell.Tab.0.left/0.25.1440.805@0.25.1440.805" timestamp="1608196629755" />
+    <state width="1398" height="649" key="GridCell.Tab.0.left/0.25.1440.805@0.25.1440.805" timestamp="1608202027908" />
     <state width="1398" height="649" key="GridCell.Tab.0.left/0.25.1440.807@0.25.1440.807" timestamp="1608199550073" />
-    <state width="1398" height="649" key="GridCell.Tab.0.right" timestamp="1608199550073">
-      <screen x="0" y="25" width="1440" height="807" />
+    <state width="1398" height="649" key="GridCell.Tab.0.right" timestamp="1608202027909">
+      <screen x="0" y="25" width="1440" height="805" />
     </state>
-    <state width="1398" height="421" key="GridCell.Tab.0.right/0.25.1440.805@0.25.1440.805" timestamp="1608196629755" />
+    <state width="1398" height="649" key="GridCell.Tab.0.right/0.25.1440.805@0.25.1440.805" timestamp="1608202027909" />
     <state width="1398" height="649" key="GridCell.Tab.0.right/0.25.1440.807@0.25.1440.807" timestamp="1608199550073" />
     <state x="229" y="25" key="SettingsEditor" timestamp="1608199433220">
       <screen x="0" y="25" width="1440" height="807" />
