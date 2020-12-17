@@ -123,7 +123,7 @@ public class FileManagementSystem {
         inventory.add(document);
     }
 
-    private static void press() {
+    public static void press() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("\n PRESS ENTER KEY TO CONTINUE........\n");
         String line = scanner.nextLine();
