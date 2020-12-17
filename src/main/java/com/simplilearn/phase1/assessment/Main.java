@@ -54,7 +54,7 @@ public class Main {
 
     private static void press(){
         Scanner scanner= new Scanner(System.in);
-        System.out.println("\n PRESS ANY KEY TO CONTINUE........\n");
+        System.out.println("\n PRESS ENTER KEY TO CONTINUE........\n");
         String line = scanner.nextLine();
     }
 

@@ -106,8 +106,10 @@ public class FileManagementSystem {
         Byte inputOption = -1;
         try {
             inputOption = Byte.parseByte(input);
-            if (inputOption > 0)
+            if (inputOption > 0){
                 inventory.remove(inputOption - 1);
+                System.out.println(" FILE DELETED SUCCESSFULLY !! \n");
+            }
             else
                 System.out.println(" WRONG INPUT PLEASE TRY AGAIN \n");
 
@@ -123,7 +125,7 @@ public class FileManagementSystem {
 
     private static void press() {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("\n PRESS ANY KEY TO CONTINUE........\n");
+        System.out.println("\n PRESS ENTER KEY TO CONTINUE........\n");
         String line = scanner.nextLine();
     }
 }
